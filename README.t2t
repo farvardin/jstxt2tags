@@ -1,0 +1,29 @@
+jstxt2tags
+
+
+%!target: rst 
+
+
+render txt2tags with javascript
+
+based on http://www.meatballsociety.org/Creole/0.4/
+
+
+== Supported features ==
+
+ - Headers
+ - Inline emphasis such as bold, italic, strike, underline
+ - Paragraphs
+ - pre-formatted area
+
+
+== Unsupported features ==
+
+ - Regex
+ - Preproc / Postproc
+ - Ordered and unordered lists (bug)
+ - links
+ - pre-formatted area
+ - raw area
+ - tables
+ 
